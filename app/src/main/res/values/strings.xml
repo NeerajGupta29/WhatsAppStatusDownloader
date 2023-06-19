@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatsApp Status Downloader</string>
+    <string name="tab_text_1">Status</string>
+    <string name="tab_text_2">Downloads</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
